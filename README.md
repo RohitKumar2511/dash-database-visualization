@@ -1,21 +1,19 @@
 
-## Instructions to set up the application and executing the application
+## Instructions to set up the application and execute the application
 # Data Visualization Application
 
 ## Setup Instructions
 
 1. **Clone the Repository:**
+   https://github.com/RohitKumar2511/dash-database-visualization.git
+   cd dash-database-visualization 
 
-   ```bash
-   git clone https://github.com/username/repository_name.git
-   cd repository_name 
-
-2. Create a avirtual Environment: 
+2. Create a virtual Environment: 
 
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-3.Install Dependencies:
+3. Install Dependencies:
 
     pip install -r requirements.txt
 
