@@ -6,30 +6,30 @@
 
 1. **Clone the Repository:**
 
-   https://github.com/RohitKumar2511/dash-database-visualization.git
+   >> https://github.com/RohitKumar2511/dash-database-visualization.git
    
-   cd dash-database-visualization 
+   >> cd dash-database-visualization 
 
 3. Create a Virtual Environment: 
 
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   >> python -m venv venv
+   >> source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 4. Install Dependencies:
 
-    pip install -r requirements.txt
+    >> pip install -r requirements.txt
 
 5. Initialize the Database:
 
-    python initialize_db.py
+    >> python initialize_db.py
 
 6. Run the Dash Application:
 
-    python data_viz_app.py
+    >> python data_viz_app.py
 
 7. Open the Application in Your Browser:
 
-    Navigate to http://127.0.0.1:8050 to view the dashboard.
+    >> Navigate to http://127.0.0.1:8050 to view the dashboard.
 
 
 Description: 
