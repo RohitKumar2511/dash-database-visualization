@@ -1,0 +1,21 @@
+In this project, we've built a 'Develop a Python Application for Database Interaction, Data Processing, and Visualization using Dash'. 
+##Here, is a detialed setup of all the requirements and initialization script to complete the setup for this project:
+
+>> dash==2.12.0
+>> pandas==2.0.3
+>> plotly==5.14.1
+>> sqlite3  # SQLite is included with python, so we won't need to download it as sepearate
+>> plotly == 5.14.1
+
+
+##Database Initialization script
+
+Create a file named as 'initializ_db.py' to set up the SQLite database with the required tables and sample data.
+
+Import sqlite3 
+
+def create_the_fn():
+    _ _ _ _ creation code _ _  _ _ 
+    
+    _ _ _ _ Seeding sample code _ _  _ _ 
+
